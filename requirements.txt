@@ -1,0 +1,5 @@
+dspy
+openai
+datasets
+python-dotenv
+scikit-learn

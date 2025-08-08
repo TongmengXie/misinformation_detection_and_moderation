@@ -1,0 +1,17 @@
+[
+  {
+    "statement": "Climate change is a hoax created by the Chinese government.",
+    "label": "false",
+    "justification": "This is a widely debunked conspiracy theory with no supporting evidence."
+  },
+  {
+    "statement": "The UK should nationalize water utilities.",
+    "label": "opinion",
+    "justification": "This is a political opinion rather than a factual claim."
+  },
+  {
+    "statement": "Water boils at 100 degrees Celsius at sea level.",
+    "label": "true",
+    "justification": "This is a well-established scientific fact."
+  }
+]
